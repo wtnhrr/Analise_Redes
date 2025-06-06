@@ -13,3 +13,5 @@ O processo envolve:
 Este projeto visa demonstrar, na prática, como técnicas de análise de redes podem ser aplicadas a dados reais, promovendo uma compreensão mais profunda das estruturas e dinâmicas presentes em redes complexas.
 
 A página Wikipédia escolhida foi [Ragnarok Online](https://en.wikipedia.org/wiki/Ragnarok_Online), uma página de game online.
+
+Acesse pelo link: [Projeto de Redes](https://wtnhrr.github.io/Analise_Redes/network/)
